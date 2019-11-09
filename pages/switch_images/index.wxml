@@ -1,0 +1,12 @@
+<view class="wrapper">
+  <view>
+    <text>图片切换</text>
+  </view>
+  <view>
+    <image src="{{imgList[index]}}"></image>
+  </view>
+  <view class="btns">
+    <button bindtap="prevTap">上一页</button>
+    <button bindtap="nextTap">下一页</button>
+  </view>
+</view>

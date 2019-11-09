@@ -1,0 +1,15 @@
+/* pages/switch_images/index.wxss */
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btns {
+  display: flex;
+}
+
+.btns button {
+  margin: 10px 10px;
+}
