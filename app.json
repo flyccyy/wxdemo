@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/swiper_demo/index",
     "pages/switch_images/index",
     "pages/components/index",
     "pages/index/index",
